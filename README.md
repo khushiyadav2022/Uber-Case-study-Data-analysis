@@ -1,5 +1,6 @@
 # Uber-Case-study-Data-analysis
 An in-depth analysis of Uber's business model, growth strategies, and impact on the transportation industry.
+![](https://0701.static.prezi.com/preview/v2/meun2ytoymcmeinmx4ygrlirvt6jc3sachvcdoaizecfr3dnitcq_3_0.png)
 
 # About Dataset:
 There are six attributes associated with each request made by a customer:

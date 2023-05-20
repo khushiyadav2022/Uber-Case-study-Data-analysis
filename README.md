@@ -46,7 +46,7 @@ There are six attributes associated with each request made by a customer:
 - The unavailability of drivers is a significant issue, as it accounts for 58% of the time.
 - The highest rush hours are in the evening and morning with 2342 requests, and the least rush time is late night with only 498 requests.
 
-# Message For Buisness Stackholder:
+# Message For Business Stakeholder:
 Based on the insights provided by the data analysis, here are some recommendations on how to increase business:
 
 - Increase the number of available drivers during peak hours, particularly in the evenings and mornings, to meet the high demand for rides.

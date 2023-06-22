@@ -18,7 +18,6 @@ There are six attributes associated with each request made by a customer:
 **Status of the request:** The final status of the trip, that can be either completed, cancelled by the driver or no cars available
 
 [Notebook](https://github.com/khushiyadav2022/Uber-Case-study-Data-analysis/blob/08089cf98cfa56683871b7a42e86c9e17de8f089/uber-data-analysis.ipynb)<br>
-[Tableau Workbook]()<br>
 
 # Task Performed
 1. Which date had the most completed trip durig the two week period?<br>
